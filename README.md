@@ -1,2 +1,2 @@
 # Command-line-App
-A coomandline application that consumes the news API
+A comandline application that consumes the news API
